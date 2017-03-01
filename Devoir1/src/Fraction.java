@@ -52,7 +52,7 @@ public class Fraction implements Cloneable {
 		{
 			throw new FractionException(ex.getMessage());
 		}
-		
+		//test
 		return new Fraction(nume,denomina);
 	}
 	
